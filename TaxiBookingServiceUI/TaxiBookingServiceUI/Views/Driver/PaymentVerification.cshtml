@@ -1,0 +1,27 @@
+﻿@model TaxiBookingServiceUI.Models.BookingViewModel
+@{
+    ViewData["Title"] = "PaymentVerification";
+}
+
+<h1>PaymentVerification</h1>
+
+
+
+<form asp-action="PaymentVerification">
+    <p>Is the payment done?</p><br />
+    <div class="form-group">
+                <label asp-for="Id" class="control-label" hidden></label>
+                <input asp-for="Id" class="form-control" hidden/>
+                <span asp-validation-for="Id" class="text-danger" hidden></span>
+    </div>
+    <div class="form-group">
+    @Html.RadioButton("Payment", "1")<span>Yes</span><br />
+    @Html.RadioButton("Payment", "0")<span>No</span>
+    </div><br />
+
+    <div class="form-group">
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </div>
+
+</form>
+

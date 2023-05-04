@@ -1,0 +1,42 @@
+﻿
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TaxiBookingServiceUI.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/StyleSheet.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navigation navbar navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3" style=" ">
+            <div class="container-fluid">
+                <p class="navbar-brand" style="font-size:xx-large; font-weight:700;">Taxi Booking Service</p>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                       @* <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="dropbtn" style="font-size:larger;" onclick="window.location.href='https://localhost:7080/Driver/AddVehicleDetails';">Add Vehicle details</button>
+                            </div>
+                        </li>*@
+
+                    </ul>
+                </div>
+                <a class="dropbtn" asp-area="" asp-controller="" asp-action="Login">Log Out</a>
+
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>

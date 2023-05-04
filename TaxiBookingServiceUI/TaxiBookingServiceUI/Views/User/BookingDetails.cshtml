@@ -1,0 +1,79 @@
+﻿@model Tuple<TaxiBookingServiceUI.Models.BookingViewModel , TaxiBookingServiceUI.Models.VehicleCategoryViewModel>
+
+@{
+    ViewData["Title"] = "BookingDetails";
+    <p style="color : red">@TempData["message"]</p>
+
+}
+   
+}
+
+<h1>BookingDetails</h1>
+
+<div>
+    <hr />
+    <form asp-action="BookingDetails">
+        <dl class="row">
+            <dd class="col-sm-10">
+                @Html.HiddenFor(model => model.Item1.Id)
+            </dd>
+             <dd class="col-sm-10">
+                @Html.HiddenFor(model => model.Item1.Status)
+            </dd>
+            <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.Item1.PickupLocation)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.HiddenFor(model => model.Item1.PickupLocation)
+                @Html.DisplayFor(model => model.Item1.PickupLocation)
+            </dd>
+            <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.Item1.Destination)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.HiddenFor(model => model.Item1.Destination)
+                @Html.DisplayFor(model => model.Item1.Destination)
+            </dd>
+            <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.Item1.Date)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.HiddenFor(model => model.Item1.Date)
+                @Html.DisplayFor(model => model.Item1.Date)
+            </dd>
+            <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.Item1.RideFare)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Item1.RideFare) Rupees
+                @Html.HiddenFor(model => model.Item1.RideFare)
+            </dd>
+            <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.Item1.RideTime)
+            </dt>
+            <dd class="row" style=" margin-left:initial">
+                @Html.DisplayFor(model => model.Item1.RideTime) minutes
+                @Html.HiddenFor(model => model.Item1.RideTime)
+            </dd>
+            <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.Item1.PaymentMode)
+            </dt>
+            <dt class="col-sm-2">
+                @Html.DropDownList("PaymentMode" , new SelectList((List<string>)ViewBag.modeNames) , "--Select the Mode--" , new{ @id = "PaymentMode" , @class="form-control"})
+                @Html.HiddenFor(model => model.Item1.PaymentMode)
+            </dt>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Item2.Type)
+               
+            </dt><br />
+            <dt class="col-sm-2">
+                @Html.DropDownList("Type" , new SelectList((List<string>)ViewBag.categoryNames) , "--Select the Category--" , new{ @id = "Type" , @class="form-control"})
+                @Html.HiddenFor(model => model.Item2.Type)
+            </dt>
+        </dl>
+
+        <div class="form-group">
+            <input type="submit" value="Book Ride" class="btn btn-primary" />
+        </div>
+        </form>
+</div>

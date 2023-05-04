@@ -1,0 +1,142 @@
+2023-04-15 12:34:22.5861 INFO Displayed the list of states successfully
+2023-04-15 12:42:08.0775 INFO Displayed the list of cities successfully
+2023-04-15 12:42:09.0198 INFO Displayed the list of states successfully
+2023-04-15 12:42:13.0216 INFO Displayed the list of states successfully
+2023-04-15 12:56:20.7447 INFO Displayed the list of states successfully
+2023-04-15 12:56:27.6780 INFO Displayed the list of states successfully
+2023-04-15 12:56:32.3323 INFO Displayed the list of states successfully
+2023-04-15 12:57:43.3142 INFO Displayed the list of states successfully
+2023-04-15 12:57:50.4933 INFO Displayed the list of states successfully
+2023-04-15 12:58:01.7031 INFO Displayed the list of cities successfully
+2023-04-15 12:58:01.7553 INFO Displayed the list of states successfully
+2023-04-15 12:58:54.6379 INFO Displayed the list of states successfully
+2023-04-15 12:59:08.6439 INFO Displayed the list of states successfully
+2023-04-15 13:01:06.9613 INFO Displayed the list of states successfully
+2023-04-15 13:01:17.3300 INFO Displayed the list of states successfully
+2023-04-15 13:02:32.8235 INFO Displayed the list of states successfully
+2023-04-15 13:02:56.3556 INFO Displayed the list of states successfully
+2023-04-15 13:03:20.9230 INFO Displayed the list of states successfully
+2023-04-15 13:05:05.4823 INFO City has been added Successfully
+2023-04-15 13:09:13.5982 INFO Displayed the list of states successfully
+2023-04-15 13:09:30.9105 INFO Displayed the list of states successfully
+2023-04-15 13:11:29.5574 INFO Displayed the list of states successfully
+2023-04-15 13:18:31.7831 INFO Displayed the list of states successfully
+2023-04-15 13:18:44.1220 INFO Displayed the list of states successfully
+2023-04-15 13:22:25.1634 INFO Displayed the list of states successfully
+2023-04-15 13:22:37.7372 INFO Displayed the list of states successfully
+2023-04-15 14:13:30.7409 INFO Displayed the list of areas successfully
+2023-04-15 14:14:14.1363 INFO Displayed the list of areas successfully
+2023-04-15 14:25:14.8015 INFO Displayed the list of areas successfully
+2023-04-15 14:25:52.3771 INFO Displayed the list of areas successfully
+2023-04-15 14:29:01.7362 INFO Displayed the list of areas successfully
+2023-04-15 14:29:52.9444 INFO Displayed the list of areas successfully
+2023-04-15 14:30:35.3140 INFO Displayed the list of areas successfully
+2023-04-15 14:33:58.0054 INFO Displayed the list of areas successfully
+2023-04-15 14:34:26.3513 INFO Displayed the list of areas successfully
+2023-04-15 14:38:10.1445 INFO User has been registered Successfully
+2023-04-15 14:40:36.4143 INFO Displayed the list of areas successfully
+2023-04-15 14:41:30.4696 INFO Displayed the list of areas successfully
+2023-04-15 14:41:35.3752 INFO User has been registered Successfully
+2023-04-15 14:46:09.9588 WARN User is not present
+2023-04-15 14:50:26.5038 WARN User is not present
+2023-04-15 15:15:51.4534 INFO User has been logged in Successfully
+2023-04-15 15:17:25.0552 INFO Displayed the list of users successfully
+2023-04-15 15:18:41.2047 WARN User is not present
+2023-04-15 15:23:20.9540 INFO User has been logged in Successfully
+2023-04-15 15:23:59.5432 INFO Displayed the list of states successfully
+2023-04-15 15:24:38.6114 INFO Displayed the list of states successfully
+2023-04-15 15:24:54.9488 INFO City has been added Successfully
+2023-04-15 15:25:30.0729 INFO Displayed the list of cities successfully
+2023-04-15 15:25:30.0975 INFO Displayed the list of states successfully
+2023-04-15 15:25:30.1082 INFO Displayed the list of states successfully
+2023-04-15 15:25:30.1082 INFO Displayed the list of states successfully
+2023-04-15 16:17:11.8603 INFO User has been logged in Successfully
+2023-04-15 16:17:14.8250 INFO Displayed the list of cities successfully
+2023-04-15 16:17:15.4653 INFO Displayed the list of states successfully
+2023-04-15 16:17:15.4919 INFO Displayed the list of states successfully
+2023-04-15 16:17:15.5181 INFO Displayed the list of states successfully
+2023-04-15 16:31:34.6806 INFO Displayed the list of vehicle details successfully
+2023-04-15 16:31:50.6285 INFO Displayed the list of vehicle details successfully
+2023-04-15 16:32:21.9238 INFO Vehicle detail has been added Successfully
+2023-04-15 16:55:23.7205 INFO Displayed the list of vehicle categories successfully
+2023-04-15 18:43:05.7375 INFO Vehicle detail has been added Successfully
+2023-04-15 20:57:18.2863 INFO User has been logged in Successfully
+2023-04-15 20:57:18.5711 INFO Displayed the list of states successfully
+2023-04-15 20:58:01.2423 INFO Displayed the list of vehicle details successfully
+2023-04-15 20:58:01.3160 INFO Displayed the list of vehicle categories successfully
+2023-04-15 21:06:26.6337 INFO User has been logged in Successfully
+2023-04-15 21:06:26.7694 INFO Displayed the list of states successfully
+2023-04-15 21:06:49.3015 INFO Displayed the list of vehicle details successfully
+2023-04-15 21:06:49.3241 INFO Displayed the list of vehicle categories successfully
+2023-04-15 21:10:47.3883 INFO User has been logged in Successfully
+2023-04-15 21:10:47.5316 INFO Displayed the list of states successfully
+2023-04-15 21:11:07.8936 INFO Displayed the list of vehicle details successfully
+2023-04-15 21:11:07.9227 INFO Displayed the list of vehicle categories successfully
+2023-04-15 22:16:31.7795 INFO User has been logged in Successfully
+2023-04-15 22:16:32.0599 INFO Displayed the list of states successfully
+2023-04-15 22:16:55.1208 INFO Displayed the list of vehicle details successfully
+2023-04-15 22:16:55.1645 INFO Displayed the list of vehicle categories successfully
+2023-04-15 22:46:06.8475 INFO User has been logged in Successfully
+2023-04-15 22:46:07.2839 INFO Displayed the list of states successfully
+2023-04-15 22:46:27.7425 INFO Displayed the list of vehicle details successfully
+2023-04-15 22:46:27.7907 INFO Displayed the list of vehicle categories successfully
+2023-04-15 22:51:56.6875 INFO User has been logged in Successfully
+2023-04-15 22:51:56.8831 INFO Displayed the list of states successfully
+2023-04-15 22:52:17.4214 INFO Displayed the list of vehicle details successfully
+2023-04-15 22:52:17.4626 INFO Displayed the list of vehicle categories successfully
+2023-04-15 22:52:30.4686 INFO Displayed the list of vehicle details successfully
+2023-04-15 22:55:19.7942 INFO User has been logged in Successfully
+2023-04-15 22:55:19.9850 INFO Displayed the list of states successfully
+2023-04-15 22:55:48.4761 INFO Displayed the list of vehicle details successfully
+2023-04-15 22:55:48.5150 INFO Displayed the list of vehicle categories successfully
+2023-04-15 22:59:50.7830 INFO User has been logged in Successfully
+2023-04-15 22:59:50.9986 INFO Displayed the list of states successfully
+2023-04-15 23:00:30.8418 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:00:30.8801 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:06:00.3766 INFO User has been logged in Successfully
+2023-04-15 23:06:00.6172 INFO Displayed the list of states successfully
+2023-04-15 23:06:25.8351 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:06:25.8831 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:08:04.6624 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:08:09.2058 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:20:13.8011 INFO User has been logged in Successfully
+2023-04-15 23:20:13.9983 INFO Displayed the list of states successfully
+2023-04-15 23:20:32.9648 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:20:33.0012 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:20:58.4721 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:21:06.0761 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:21:18.2057 ERROR    at TaxiBookingService.Services.BookingService.Add(BookingDTO newBooking) in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\Services\Bookings\BookingService.cs:line 60
+   at TaxiBookingService.Controllers.BookingController.Add(BookingDTO newBooking) in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\Controllers\BookingController.cs:line 68
+2023-04-15 23:23:37.5039 INFO User has been logged in Successfully
+2023-04-15 23:23:37.6779 INFO Displayed the list of states successfully
+2023-04-15 23:24:12.4066 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:24:12.4435 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:24:23.6106 INFO Displayed the list of vehicle details successfully
+2023-04-15 23:24:31.7289 INFO Displayed the list of vehicle categories successfully
+2023-04-15 23:24:50.1650 ERROR    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__104_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at TaxiBookingService.DAL.UnitOfWorkBooking.Complete() in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\DAL\UnitOfWork\UnitOfWorkBooking\UnitOfWorkBooking.cs:line 29
+   at TaxiBookingService.Services.BookingService.Add(BookingDTO newBooking) in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\Services\Bookings\BookingService.cs:line 75
+   at TaxiBookingService.Controllers.BookingController.Add(BookingDTO newBooking) in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\Controllers\BookingController.cs:line 68
+2023-04-15 23:27:31.4617 ERROR    at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.<>c.<SaveChanges>b__104_0(DbContext _, ValueTuple`2 t)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at TaxiBookingService.DAL.UnitOfWorkBooking.Complete() in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\DAL\UnitOfWork\UnitOfWorkBooking\UnitOfWorkBooking.cs:line 29
+   at TaxiBookingService.Services.BookingService.Add(BookingDTO newBooking) in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\Services\Bookings\BookingService.cs:line 75
+   at TaxiBookingService.Controllers.BookingController.Add(BookingDTO newBooking) in D:\DotnetProjectsSource\TaxiBookingService\TaxiBookingService\Controllers\BookingController.cs:line 68
+2023-04-15 23:31:08.9466 WARN Booking is already present

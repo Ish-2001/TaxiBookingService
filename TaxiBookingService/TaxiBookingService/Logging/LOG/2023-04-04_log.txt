@@ -1,0 +1,21 @@
+2023-04-04 11:01:01.5464 INFO Displayed the list of users successfully
+2023-04-04 12:30:06.2530 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-04 12:47:38.2645 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-04 12:48:40.7045 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-04 13:55:54.1414 ERROR The LINQ expression 'DbSet<UserRole>()
+    .Where(u => u.Role.Equals(
+        value: __newUser_Role_0, 
+        comparisonType: InvariantCultureIgnoreCase))' could not be translated. Additional information: Translation of the 'string.Equals' overload with a 'StringComparison' parameter is not supported. See https://go.microsoft.com/fwlink/?linkid=2129535 for more information. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+2023-04-04 14:00:54.1333 ERROR The LINQ expression 'DbSet<UserRole>()
+    .Where(u => u.Role.Equals(
+        value: __newUser_Role_0, 
+        comparisonType: InvariantCultureIgnoreCase))' could not be translated. Additional information: Translation of the 'string.Equals' overload with a 'StringComparison' parameter is not supported. See https://go.microsoft.com/fwlink/?linkid=2129535 for more information. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to 'AsEnumerable', 'AsAsyncEnumerable', 'ToList', or 'ToListAsync'. See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+2023-04-04 14:11:56.4326 ERROR Data is Null. This method or property cannot be called on Null values.
+2023-04-04 14:16:22.4271 ERROR Data is Null. This method or property cannot be called on Null values.
+2023-04-04 14:30:02.2986 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-04 14:32:11.0702 INFO User has been registered Successfully
+2023-04-04 14:33:03.3716 INFO User has been registered Successfully
+2023-04-04 15:29:50.6082 INFO User has been updated Successfully
+2023-04-04 15:33:49.0734 INFO User has been updated Successfully
+2023-04-04 15:48:34.4306 INFO User has been updated Successfully
+2023-04-04 15:57:30.8028 INFO User has been updated Successfully

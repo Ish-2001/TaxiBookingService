@@ -1,0 +1,146 @@
+2023-04-21 13:25:24.4485 INFO User has been logged in Successfully
+2023-04-21 13:25:41.7056 INFO Displayed the list of ride cancellations successfully
+2023-04-21 13:25:49.7845 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:26:01.9830 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:26:46.4823 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:26:53.0131 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:27:08.1213 INFO Displayed the list of users successfully
+2023-04-21 13:28:04.5768 INFO Displayed the list of user roles successfully
+2023-04-21 13:30:42.6752 INFO User has been logged in Successfully
+2023-04-21 13:30:58.6971 INFO Displayed the list of ride cancellations successfully
+2023-04-21 13:30:59.0219 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:30:59.1980 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:31:15.4392 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:31:19.5972 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:31:33.3242 INFO Displayed the list of users successfully
+2023-04-21 13:35:13.8401 INFO User has been logged in Successfully
+2023-04-21 13:35:27.1177 INFO Displayed the list of ride cancellations successfully
+2023-04-21 13:35:27.3447 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:35:27.4700 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:35:41.1837 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:35:41.1945 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:35:41.1945 INFO Displayed the list of users successfully
+2023-04-21 13:36:46.7028 INFO Displayed the list of users successfully
+2023-04-21 13:39:56.1111 INFO User has been updated Successfully
+2023-04-21 13:42:27.3583 INFO User has been logged in Successfully
+2023-04-21 13:42:39.1698 INFO Displayed the list of ride cancellations successfully
+2023-04-21 13:42:39.4866 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:42:39.6206 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:42:51.8763 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:42:51.8899 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:42:51.8899 INFO Displayed the list of users successfully
+2023-04-21 13:45:41.3456 INFO User has been logged in Successfully
+2023-04-21 13:45:58.6137 INFO Displayed the list of ride cancellations successfully
+2023-04-21 13:45:58.8406 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:45:58.9368 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:46:19.0054 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:46:22.6987 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:46:36.8578 INFO Displayed the list of users successfully
+2023-04-21 13:53:54.9506 INFO User has been logged in Successfully
+2023-04-21 13:54:13.3350 INFO Displayed the list of ride cancellations successfully
+2023-04-21 13:54:16.6162 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:54:16.6966 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:54:32.3945 INFO Displayed the list of vehicle details successfully
+2023-04-21 13:54:38.7938 INFO Displayed the list of vehicle categories successfully
+2023-04-21 13:54:51.9065 INFO Displayed the list of users successfully
+2023-04-21 13:54:51.9297 INFO Displayed the list of user roles successfully
+2023-04-21 13:54:51.9441 INFO Displayed the list of user roles successfully
+2023-04-21 13:54:51.9441 INFO Displayed the list of user roles successfully
+2023-04-21 13:54:51.9572 INFO Displayed the list of user roles successfully
+2023-04-21 13:54:51.9721 INFO Displayed the list of user roles successfully
+2023-04-21 13:54:51.9721 INFO Displayed the list of user roles successfully
+2023-04-21 14:01:04.6763 INFO User has been logged in Successfully
+2023-04-21 14:01:16.5803 INFO Displayed the list of ride cancellations successfully
+2023-04-21 14:01:16.8795 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:01:17.0296 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:01:28.8050 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:01:28.8050 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:01:28.8224 INFO Displayed the list of users successfully
+2023-04-21 14:01:28.8426 INFO Displayed the list of user roles successfully
+2023-04-21 14:01:28.8526 INFO Displayed the list of user roles successfully
+2023-04-21 14:01:28.8526 INFO Displayed the list of user roles successfully
+2023-04-21 14:01:28.8678 INFO Displayed the list of user roles successfully
+2023-04-21 14:01:28.8678 INFO Displayed the list of user roles successfully
+2023-04-21 14:01:28.8877 INFO Displayed the list of user roles successfully
+2023-04-21 14:15:03.0765 INFO User has been logged in Successfully
+2023-04-21 14:15:28.4654 INFO Displayed the list of ride cancellations successfully
+2023-04-21 14:15:29.1400 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:15:29.5285 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:15:39.0230 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:15:39.0514 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:15:39.1235 INFO Displayed the list of users successfully
+2023-04-21 14:15:39.2396 INFO Displayed the list of user roles successfully
+2023-04-21 14:15:39.2939 INFO Displayed the list of user roles successfully
+2023-04-21 14:15:39.3314 INFO Displayed the list of user roles successfully
+2023-04-21 14:15:39.3530 INFO Displayed the list of user roles successfully
+2023-04-21 14:15:39.3752 INFO Displayed the list of user roles successfully
+2023-04-21 14:15:39.3951 INFO Displayed the list of user roles successfully
+2023-04-21 14:20:47.2544 INFO User has been logged in Successfully
+2023-04-21 14:21:00.1501 INFO Displayed the list of ride cancellations successfully
+2023-04-21 14:21:00.7437 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:21:01.0359 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:21:13.5400 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:21:13.5659 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:21:13.6022 INFO Displayed the list of users successfully
+2023-04-21 14:21:13.6509 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:13.6966 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:13.7211 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:13.7445 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:13.7639 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:13.7823 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:28.4221 INFO Displayed the list of users successfully
+2023-04-21 14:21:28.4437 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:28.4647 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:28.4878 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:28.5078 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:28.5286 INFO Displayed the list of user roles successfully
+2023-04-21 14:21:28.5522 INFO Displayed the list of user roles successfully
+2023-04-21 14:22:23.8373 INFO User has been updated Successfully
+2023-04-21 14:22:41.6217 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:22:41.6452 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:26:30.3916 INFO User has been logged in Successfully
+2023-04-21 14:26:43.1521 INFO Displayed the list of ride cancellations successfully
+2023-04-21 14:26:43.7531 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:26:44.0334 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:26:52.2193 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:26:52.2364 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:26:52.2663 INFO Displayed the list of users successfully
+2023-04-21 14:26:52.3180 INFO Displayed the list of user roles successfully
+2023-04-21 14:26:52.3550 INFO Displayed the list of user roles successfully
+2023-04-21 14:26:52.3738 INFO Displayed the list of user roles successfully
+2023-04-21 14:26:52.3984 INFO Displayed the list of user roles successfully
+2023-04-21 14:26:52.4180 INFO Displayed the list of user roles successfully
+2023-04-21 14:26:52.4380 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.3468 INFO Displayed the list of users successfully
+2023-04-21 14:27:00.3719 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.4007 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.4193 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.4358 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.4546 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.4766 INFO Displayed the list of user roles successfully
+2023-04-21 14:27:00.5549 INFO User has been updated Successfully
+2023-04-21 14:27:00.5938 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:27:00.6160 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:39:15.2995 INFO User has been logged in Successfully
+2023-04-21 14:39:28.0968 INFO Displayed the list of ride cancellations successfully
+2023-04-21 14:39:28.7261 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:39:29.0633 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:39:37.3972 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:39:37.4191 INFO Displayed the list of vehicle categories successfully
+2023-04-21 14:39:37.4450 INFO Displayed the list of users successfully
+2023-04-21 14:39:37.5028 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:37.5421 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:37.5605 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:37.5794 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:37.5987 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:37.6193 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.1963 INFO Displayed the list of users successfully
+2023-04-21 14:39:51.2186 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.2408 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.2624 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.2851 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.3163 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.3358 INFO Displayed the list of user roles successfully
+2023-04-21 14:39:51.4415 INFO User has been updated Successfully
+2023-04-21 14:39:51.4913 INFO Displayed the list of vehicle details successfully
+2023-04-21 14:39:51.5231 INFO Displayed the list of vehicle categories successfully

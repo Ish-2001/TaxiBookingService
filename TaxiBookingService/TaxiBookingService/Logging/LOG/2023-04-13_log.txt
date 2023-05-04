@@ -1,0 +1,233 @@
+2023-04-13 08:47:56.1393 INFO User has been logged in Successfully
+2023-04-13 08:50:28.8478 INFO User has been logged in Successfully
+2023-04-13 08:54:58.8017 INFO Displayed the list of users successfully
+2023-04-13 09:48:45.4570 INFO User has been logged in Successfully
+2023-04-13 09:48:45.6897 INFO Displayed the list of states successfully
+2023-04-13 09:48:49.2089 INFO Displayed the list of cities successfully
+2023-04-13 09:48:49.2359 INFO Displayed the list of states successfully
+2023-04-13 09:48:59.3820 INFO Displayed the list of areas successfully
+2023-04-13 09:48:59.3989 INFO Displayed the list of cities successfully
+2023-04-13 09:48:59.4131 INFO Displayed the list of states successfully
+2023-04-13 09:48:59.4271 INFO Displayed the list of cities successfully
+2023-04-13 09:48:59.4271 INFO Displayed the list of states successfully
+2023-04-13 09:49:05.5640 INFO Displayed the list of states successfully
+2023-04-13 09:49:14.4184 INFO Location has been added Successfully
+2023-04-13 09:49:19.0442 INFO Displayed the list of bookings successfully
+2023-04-13 11:34:56.4050 INFO User has been logged in Successfully
+2023-04-13 11:34:56.5286 INFO Displayed the list of states successfully
+2023-04-13 11:35:00.0531 INFO Displayed the list of cities successfully
+2023-04-13 11:35:00.0751 INFO Displayed the list of states successfully
+2023-04-13 11:35:04.5310 INFO Displayed the list of areas successfully
+2023-04-13 11:35:04.5433 INFO Displayed the list of cities successfully
+2023-04-13 11:35:04.5520 INFO Displayed the list of states successfully
+2023-04-13 11:35:04.5520 INFO Displayed the list of cities successfully
+2023-04-13 11:35:04.5713 INFO Displayed the list of states successfully
+2023-04-13 11:35:10.5740 INFO Displayed the list of states successfully
+2023-04-13 11:35:16.6541 INFO Location has been added Successfully
+2023-04-13 11:36:05.5600 INFO Displayed the list of bookings successfully
+2023-04-13 11:37:03.6990 INFO Displayed the list of statuses successfully
+2023-04-13 11:40:16.7275 INFO User has been logged in Successfully
+2023-04-13 11:40:16.8482 INFO Displayed the list of states successfully
+2023-04-13 11:40:19.7991 INFO Displayed the list of cities successfully
+2023-04-13 11:40:19.8146 INFO Displayed the list of states successfully
+2023-04-13 11:40:23.6938 INFO Displayed the list of areas successfully
+2023-04-13 11:40:23.7314 INFO Displayed the list of cities successfully
+2023-04-13 11:40:23.7598 INFO Displayed the list of states successfully
+2023-04-13 11:40:23.7755 INFO Displayed the list of cities successfully
+2023-04-13 11:40:23.7896 INFO Displayed the list of states successfully
+2023-04-13 11:40:29.3955 INFO Displayed the list of states successfully
+2023-04-13 11:40:31.7432 INFO Location has been added Successfully
+2023-04-13 11:40:54.9209 INFO Displayed the list of statuses successfully
+2023-04-13 11:41:18.7105 INFO Displayed the list of bookings successfully
+2023-04-13 11:41:36.1222 INFO Displayed the list of cities successfully
+2023-04-13 11:54:39.0358 INFO User has been logged in Successfully
+2023-04-13 11:54:39.4281 INFO Displayed the list of states successfully
+2023-04-13 11:54:42.8826 INFO Displayed the list of cities successfully
+2023-04-13 11:54:42.9089 INFO Displayed the list of states successfully
+2023-04-13 11:54:46.4804 INFO Displayed the list of areas successfully
+2023-04-13 11:54:46.5054 INFO Displayed the list of cities successfully
+2023-04-13 11:54:46.5310 INFO Displayed the list of states successfully
+2023-04-13 11:54:46.5553 INFO Displayed the list of cities successfully
+2023-04-13 11:54:46.5711 INFO Displayed the list of states successfully
+2023-04-13 11:54:51.4876 INFO Displayed the list of states successfully
+2023-04-13 11:54:54.1832 INFO Location has been added Successfully
+2023-04-13 11:55:08.3871 INFO Displayed the list of statuses successfully
+2023-04-13 11:55:09.6412 INFO Displayed the list of bookings successfully
+2023-04-13 11:55:10.8025 INFO Displayed the list of users successfully
+2023-04-13 11:55:15.0260 INFO Displayed the list of cities successfully
+2023-04-13 11:57:00.3541 WARN User is not present
+2023-04-13 11:57:10.9546 WARN User is not present
+2023-04-13 11:57:16.9121 INFO User has been logged in Successfully
+2023-04-13 11:57:17.0062 INFO Displayed the list of states successfully
+2023-04-13 11:57:20.4683 INFO Displayed the list of cities successfully
+2023-04-13 11:57:20.5187 INFO Displayed the list of states successfully
+2023-04-13 11:57:23.9553 INFO Displayed the list of areas successfully
+2023-04-13 11:57:23.9811 INFO Displayed the list of cities successfully
+2023-04-13 11:57:24.0016 INFO Displayed the list of states successfully
+2023-04-13 11:57:24.0502 INFO Displayed the list of cities successfully
+2023-04-13 11:57:24.0673 INFO Displayed the list of states successfully
+2023-04-13 11:57:28.6345 INFO Displayed the list of states successfully
+2023-04-13 11:57:32.4985 INFO Location has been added Successfully
+2023-04-13 11:57:40.6425 INFO Displayed the list of statuses successfully
+2023-04-13 11:57:41.0767 INFO Displayed the list of bookings successfully
+2023-04-13 11:57:41.6943 INFO Displayed the list of users successfully
+2023-04-13 11:57:42.1807 INFO Displayed the list of cities successfully
+2023-04-13 11:59:52.9450 INFO Displayed the list of states successfully
+2023-04-13 12:01:52.3763 INFO Displayed the list of areas successfully
+2023-04-13 12:02:34.3760 INFO User has been logged in Successfully
+2023-04-13 12:02:34.4720 INFO Displayed the list of states successfully
+2023-04-13 12:02:37.9304 INFO Displayed the list of cities successfully
+2023-04-13 12:02:37.9515 INFO Displayed the list of states successfully
+2023-04-13 12:02:41.2660 INFO Displayed the list of areas successfully
+2023-04-13 12:02:41.2800 INFO Displayed the list of cities successfully
+2023-04-13 12:02:41.2947 INFO Displayed the list of states successfully
+2023-04-13 12:02:41.2947 INFO Displayed the list of cities successfully
+2023-04-13 12:02:41.3197 INFO Displayed the list of states successfully
+2023-04-13 12:02:48.3413 INFO Displayed the list of states successfully
+2023-04-13 12:02:56.3922 INFO Location has been added Successfully
+2023-04-13 12:03:04.5523 INFO Displayed the list of statuses successfully
+2023-04-13 12:03:05.5045 INFO Displayed the list of bookings successfully
+2023-04-13 12:03:06.4984 INFO Displayed the list of users successfully
+2023-04-13 12:03:07.7084 INFO Displayed the list of areas successfully
+2023-04-13 12:03:14.1264 INFO Displayed the list of states successfully
+2023-04-13 12:03:18.9498 INFO Displayed the list of states successfully
+2023-04-13 12:17:53.7384 INFO User has been logged in Successfully
+2023-04-13 12:17:53.8609 INFO Displayed the list of states successfully
+2023-04-13 12:17:57.4485 INFO Displayed the list of cities successfully
+2023-04-13 12:17:57.4620 INFO Displayed the list of states successfully
+2023-04-13 12:18:04.4936 INFO Displayed the list of areas successfully
+2023-04-13 12:18:04.5036 INFO Displayed the list of cities successfully
+2023-04-13 12:18:04.5162 INFO Displayed the list of states successfully
+2023-04-13 12:18:04.5162 INFO Displayed the list of cities successfully
+2023-04-13 12:18:04.5366 INFO Displayed the list of states successfully
+2023-04-13 12:18:08.8229 INFO Displayed the list of states successfully
+2023-04-13 12:18:10.6736 INFO Location has been added Successfully
+2023-04-13 12:18:11.6873 INFO Displayed the list of statuses successfully
+2023-04-13 12:18:11.7132 INFO Displayed the list of bookings successfully
+2023-04-13 12:18:11.7732 INFO Displayed the list of users successfully
+2023-04-13 12:18:11.8010 INFO Displayed the list of areas successfully
+2023-04-13 12:18:11.8250 INFO Displayed the list of states successfully
+2023-04-13 12:18:11.8496 INFO Displayed the list of states successfully
+2023-04-13 12:24:31.1338 INFO Displayed the list of statuses successfully
+2023-04-13 12:24:31.4491 INFO Displayed the list of bookings successfully
+2023-04-13 12:24:31.4906 INFO Displayed the list of users successfully
+2023-04-13 12:24:31.5148 INFO Displayed the list of areas successfully
+2023-04-13 12:24:31.5374 INFO Displayed the list of states successfully
+2023-04-13 12:24:31.5557 INFO Displayed the list of states successfully
+2023-04-13 12:25:04.3639 INFO User has been logged in Successfully
+2023-04-13 12:25:04.4208 INFO Displayed the list of states successfully
+2023-04-13 12:25:07.2105 INFO Displayed the list of cities successfully
+2023-04-13 12:25:07.2260 INFO Displayed the list of states successfully
+2023-04-13 12:25:10.8289 INFO Displayed the list of areas successfully
+2023-04-13 12:25:10.8432 INFO Displayed the list of cities successfully
+2023-04-13 12:25:10.8432 INFO Displayed the list of states successfully
+2023-04-13 12:25:10.8720 INFO Displayed the list of cities successfully
+2023-04-13 12:25:10.8720 INFO Displayed the list of states successfully
+2023-04-13 12:25:15.1676 INFO Displayed the list of states successfully
+2023-04-13 12:25:21.0526 INFO Location has been added Successfully
+2023-04-13 12:25:26.0279 INFO Displayed the list of statuses successfully
+2023-04-13 12:25:26.0427 INFO Displayed the list of bookings successfully
+2023-04-13 12:25:26.0427 INFO Displayed the list of users successfully
+2023-04-13 12:25:26.0672 INFO Displayed the list of areas successfully
+2023-04-13 12:25:26.0758 INFO Displayed the list of states successfully
+2023-04-13 12:25:26.0896 INFO Displayed the list of states successfully
+2023-04-13 12:26:09.0101 INFO Displayed the list of bookings successfully
+2023-04-13 12:26:16.3772 ERROR Object reference not set to an instance of an object.
+2023-04-13 14:06:42.4992 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 14:07:53.2619 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 14:09:06.2527 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 14:27:04.2450 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 14:39:34.0150 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 14:40:01.4943 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 14:42:21.4693 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 15:18:08.0243 INFO User has been logged in Successfully
+2023-04-13 15:18:08.9425 INFO Displayed the list of states successfully
+2023-04-13 15:18:14.3345 INFO Displayed the list of cities successfully
+2023-04-13 15:18:14.4052 INFO Displayed the list of states successfully
+2023-04-13 15:18:18.8790 INFO Displayed the list of areas successfully
+2023-04-13 15:18:18.9304 INFO Displayed the list of cities successfully
+2023-04-13 15:18:18.9727 INFO Displayed the list of states successfully
+2023-04-13 15:18:19.0317 INFO Displayed the list of cities successfully
+2023-04-13 15:18:19.0642 INFO Displayed the list of states successfully
+2023-04-13 15:18:25.2912 INFO Displayed the list of states successfully
+2023-04-13 15:18:27.0831 INFO Location has been added Successfully
+2023-04-13 15:18:27.4236 INFO Displayed the list of statuses successfully
+2023-04-13 15:18:27.7500 INFO Displayed the list of bookings successfully
+2023-04-13 15:18:28.0060 INFO Displayed the list of users successfully
+2023-04-13 15:18:28.1794 INFO Displayed the list of areas successfully
+2023-04-13 15:18:28.4658 INFO Displayed the list of states successfully
+2023-04-13 15:18:28.6279 INFO Displayed the list of states successfully
+2023-04-13 15:19:13.1687 INFO Displayed the list of bookings successfully
+2023-04-13 15:19:19.0530 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-13 15:46:27.4274 ERROR An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+2023-04-13 16:26:22.4903 INFO User has been logged in Successfully
+2023-04-13 16:26:22.7629 INFO Displayed the list of states successfully
+2023-04-13 16:26:47.2657 INFO Displayed the list of cities successfully
+2023-04-13 16:26:47.2940 INFO Displayed the list of states successfully
+2023-04-13 16:26:54.6368 INFO Displayed the list of areas successfully
+2023-04-13 16:26:54.6596 INFO Displayed the list of cities successfully
+2023-04-13 16:26:54.6807 INFO Displayed the list of states successfully
+2023-04-13 16:26:54.6968 INFO Displayed the list of cities successfully
+2023-04-13 16:26:54.6968 INFO Displayed the list of states successfully
+2023-04-13 16:26:59.7776 INFO Displayed the list of states successfully
+2023-04-13 16:27:00.3955 INFO Location has been added Successfully
+2023-04-13 16:27:00.4795 INFO Displayed the list of statuses successfully
+2023-04-13 16:27:00.5518 INFO Displayed the list of bookings successfully
+2023-04-13 16:29:13.1099 INFO User has been logged in Successfully
+2023-04-13 16:29:13.2665 INFO Displayed the list of states successfully
+2023-04-13 16:29:16.9032 INFO Displayed the list of cities successfully
+2023-04-13 16:29:16.9235 INFO Displayed the list of states successfully
+2023-04-13 16:29:18.4577 INFO Displayed the list of areas successfully
+2023-04-13 16:29:18.4889 INFO Displayed the list of cities successfully
+2023-04-13 16:29:18.5027 INFO Displayed the list of states successfully
+2023-04-13 16:29:18.5248 INFO Displayed the list of cities successfully
+2023-04-13 16:29:18.5506 INFO Displayed the list of states successfully
+2023-04-13 16:29:21.1127 INFO Displayed the list of states successfully
+2023-04-13 16:29:21.1908 INFO Location has been added Successfully
+2023-04-13 16:29:21.2356 INFO Displayed the list of statuses successfully
+2023-04-13 16:29:21.2592 INFO Displayed the list of bookings successfully
+2023-04-13 16:29:21.3009 INFO Displayed the list of users successfully
+2023-04-13 16:29:21.3330 INFO Displayed the list of areas successfully
+2023-04-13 16:29:21.3684 INFO Displayed the list of states successfully
+2023-04-13 16:29:21.3919 INFO Displayed the list of states successfully
+2023-04-13 16:29:42.0728 INFO Displayed the list of bookings successfully
+2023-04-13 16:29:45.0898 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-13 16:43:25.0568 INFO User has been logged in Successfully
+2023-04-13 16:43:25.4497 INFO Displayed the list of states successfully
+2023-04-13 16:43:37.8576 INFO Displayed the list of cities successfully
+2023-04-13 16:43:37.8911 INFO Displayed the list of states successfully
+2023-04-13 16:43:39.4416 INFO Displayed the list of areas successfully
+2023-04-13 16:43:39.4694 INFO Displayed the list of cities successfully
+2023-04-13 16:43:39.4887 INFO Displayed the list of states successfully
+2023-04-13 16:43:39.5094 INFO Displayed the list of cities successfully
+2023-04-13 16:43:39.5094 INFO Displayed the list of states successfully
+2023-04-13 16:43:42.7288 INFO Displayed the list of states successfully
+2023-04-13 16:43:43.4660 INFO Location has been added Successfully
+2023-04-13 16:43:43.5517 INFO Displayed the list of statuses successfully
+2023-04-13 16:43:43.6273 INFO Displayed the list of bookings successfully
+2023-04-13 16:43:43.6745 INFO Displayed the list of users successfully
+2023-04-13 16:43:43.7224 INFO Displayed the list of areas successfully
+2023-04-13 16:43:43.7659 INFO Displayed the list of states successfully
+2023-04-13 16:43:43.7973 INFO Displayed the list of states successfully
+2023-04-13 16:43:54.8365 INFO Displayed the list of bookings successfully
+2023-04-13 16:43:57.6123 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-04-13 16:48:43.7494 INFO Booking has been updated Successfully
+2023-04-13 16:49:25.4425 INFO User has been logged in Successfully
+2023-04-13 16:49:25.8255 INFO Displayed the list of states successfully
+2023-04-13 16:49:32.3207 INFO Displayed the list of cities successfully
+2023-04-13 16:49:32.3624 INFO Displayed the list of states successfully
+2023-04-13 16:49:35.6063 INFO Displayed the list of areas successfully
+2023-04-13 16:49:37.1518 INFO Displayed the list of cities successfully
+2023-04-13 16:49:37.1800 INFO Displayed the list of states successfully
+2023-04-13 16:49:42.9809 INFO Displayed the list of cities successfully
+2023-04-13 16:49:42.9930 INFO Displayed the list of states successfully
+2023-04-13 16:49:48.0641 INFO Displayed the list of states successfully
+2023-04-13 16:49:55.4711 INFO Location has been added Successfully
+2023-04-13 16:49:55.5998 INFO Displayed the list of statuses successfully
+2023-04-13 16:49:55.6876 INFO Displayed the list of bookings successfully
+2023-04-13 16:50:00.1732 INFO Displayed the list of users successfully
+2023-04-13 16:50:01.3565 INFO Displayed the list of areas successfully
+2023-04-13 16:50:01.3840 INFO Displayed the list of states successfully
+2023-04-13 16:50:01.4128 INFO Displayed the list of states successfully
+2023-04-13 16:50:12.3616 INFO Displayed the list of bookings successfully
+2023-04-13 16:50:18.1859 INFO Booking has been updated Successfully

@@ -1,0 +1,78 @@
+﻿@model TaxiBookingServiceUI.Models.BookingViewModel
+
+@{
+    ViewData["Title"] = "GetRequestedBooking";
+    <p style="color : green">@TempData["message"]</p>
+}
+
+@*<script type="text/javascript">
+    function timedRefresh(timeoutPeriod) {
+        setTimeout(function () {
+            location.reload(true);
+        }, timeoutPeriod);
+    }
+</script>
+<body onload="JavaScript:timedRefresh(1000);">
+</body>*@
+
+
+
+<h1>GetRequestedBooking</h1>
+
+<div>
+    <hr />
+    <form asp-action="CancelRequest" method="post">
+    <dl class="row">
+        <dd class="col-sm-10">
+            @Html.HiddenFor(model => model.UserName)
+        </dd>
+            <dt class="row" style=" margin-left:initial">
+            @Html.DisplayNameFor(model => model.PickupLocation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.HiddenFor(model => model.PickupLocation)
+            @Html.DisplayFor(model => model.PickupLocation)
+        </dd>
+            <dt class="row" style=" margin-left:initial">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+            @Html.HiddenFor(model => model.Date)
+        </dd>
+            <dt class="row" style=" margin-left:initial">
+            @Html.DisplayNameFor(model => model.Destination)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Destination)
+            @Html.HiddenFor(model => model.Destination)
+        </dd>
+            <dt class="row" style=" margin-left:initial">
+            @Html.DisplayNameFor(model => model.RideFare)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RideFare)
+            @Html.HiddenFor(model => model.RideFare)
+        </dd>
+            <dt class="row" style=" margin-left:initial">
+            @Html.DisplayNameFor(model => model.RideTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RideTime)
+            @Html.HiddenFor(model => model.RideTime)
+        </dd>
+            <dt class="row" style=" margin-left:initial">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+            @Html.HiddenFor(model => model.Status)
+        </dd>
+    </dl>
+
+    <div class="form-group">
+        <input type="submit" value="Cancel" class="btn btn-primary"/>
+    </div>
+    </form>
+</div>
+

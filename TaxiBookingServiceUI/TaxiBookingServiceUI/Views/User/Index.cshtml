@@ -1,0 +1,69 @@
+﻿@model TaxiBookingServiceUI.Models.StateViewModel
+
+
+@{
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+    ViewData["Title"] = "Index";
+}
+<h5>Hello User!! From Where do you want your ride?</h5>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+<!DOCTYPE html>
+
+<script>
+        $(document).ready(function () {
+        });
+
+        $(document).ready(function () {
+            $('#States').change(function () {
+            var selectionval = (this.value);
+            var markup = "<option value='0'>--Select City--</option>";
+                console.log("change function selection");
+                $("#city").html('');
+                $.ajax({
+                    type: "GET",
+                    dataType: "JSON",
+                    url: "/City/GetCities",
+                    data: { filter: selectionval },
+                    success:
+                        function (data) {
+                            console.log(data);
+                            for (var i = 0; i < data.length; i++) {
+                                markup += "<option value=" + selectionval + ">" + data[i] + "</option>";
+                                console.log("po" + data[i]);
+                            }
+                            $("#city").append(markup);
+                            $("#cityDiv").show();
+                        },
+                    error: function (data) {
+                        alert("error" + data);
+                    }
+                })
+            });
+        });  
+
+ </script>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                @Html.DropDownList("States" , new SelectList((List<string>)ViewBag.allStates) , "--Select the State--" , new{ @id = "States" , @class="form-control"})
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group" id="cityDiv">
+                    <label for="city">City</label>
+                    <div>
+                        <select class="form-control" id="city" name="city" title="city"></select>
+                    </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" onclick="window.location.href='https://localhost:7080/user/bookingrequest';"/>
+            </div>
+         </form>
+    </div>
+</div>

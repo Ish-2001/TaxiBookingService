@@ -1,0 +1,73 @@
+﻿@model TaxiBookingServiceUI.Models.DriverViewModel
+
+@{
+    ViewData["Title"] = "ConfirmedBooking";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+    <p style="color : green">@TempData["message"]</p>
+}
+
+<h1>ConfirmedBooking</h1>
+
+@*<script type="text/javascript">
+    function timedRefresh(timeoutPeriod) {
+        setTimeout(function () {
+            location.reload(true);
+        }, timeoutPeriod);
+    }
+</script>
+<body onload="JavaScript:timedRefresh(200000);">
+</body>*@
+
+<div>
+    <hr />
+        <dl class="row">
+            <dd class="col-sm-10">
+                @Html.HiddenFor(model => model.Id)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+        <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.PhoneNumber)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.VehicleCategory)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.VehicleCategory)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.VehicleName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.VehicleName)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+                @Html.DisplayNameFor(model => model.VehicleNumberPlate)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.VehicleNumberPlate)
+            </dd>
+        <dt class="row" style=" margin-left:initial">
+            Your @Html.DisplayNameFor(model => model.OTP) is:
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OTP)
+        </dd>
+        </dl>
+        <div class="form-group">
+        <input type="submit" value="Cancel" class="btn btn-primary" onclick="window.location.href='https://localhost:7080/user/confirmedbookingcancellation'" />
+        </div>
+</div>

@@ -1,0 +1,39 @@
+﻿@model TaxiBookingServiceUI.Models.BookingViewModel
+
+@{
+    ViewData["Title"] = "BookingRequest";
+    Layout = "~/Views/Shared/UserLayout.cshtml";
+    <p style="color : green">@TempData["message"]</p>
+}
+
+
+<h1>BookingRequest</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BookingRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PickupLocation" class="control-label"></label>
+                <input asp-for="PickupLocation" class="form-control" />
+                <span asp-validation-for="PickupLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Destination" class="control-label"></label>
+                <input asp-for="Destination" class="form-control" />
+                <span asp-validation-for="Destination" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+

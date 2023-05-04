@@ -1,0 +1,33 @@
+2023-04-27 12:41:01.5519 INFO Displayed the list of user roles successfully
+2023-04-27 12:41:41.5385 INFO Displayed the list of user roles successfully
+2023-04-27 12:41:42.5212 INFO User has been registered Successfully
+2023-04-27 15:57:21.3355 INFO User has been logged in Successfully
+2023-04-27 15:57:31.3629 INFO Displayed the list of ride cancellations successfully
+2023-04-27 15:57:31.4920 INFO Displayed the list of reasons successfully
+2023-04-27 15:57:31.5992 INFO Displayed the list of vehicle details successfully
+2023-04-27 15:57:31.6619 INFO Displayed the list of vehicle categories successfully
+2023-04-27 15:57:45.5064 INFO Displayed the list of vehicle details successfully
+2023-04-27 15:57:45.5064 INFO Displayed the list of vehicle categories successfully
+2023-04-27 15:57:45.5488 INFO Displayed the list of users successfully
+2023-04-27 15:57:45.5879 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6057 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6243 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6364 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6483 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6483 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6781 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.6781 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.7013 INFO Displayed the list of user roles successfully
+2023-04-27 15:57:45.7180 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.3573 INFO Displayed the list of users successfully
+2023-04-27 15:58:14.3705 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.3705 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.3890 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4020 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4150 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4150 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4494 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4637 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4757 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:14.4757 INFO Displayed the list of user roles successfully
+2023-04-27 15:58:15.0591 INFO User has been updated Successfully
